@@ -1,0 +1,15 @@
+header {
+    background-color: lightgrey;
+}
+.container {
+    border: 2px dotted hotpink;
+    text-align: center;
+}
+.info {
+    background-color: pink;
+    color: brown;
+}
+h3 {
+    color: teal;
+    background-color: tomato;
+}
